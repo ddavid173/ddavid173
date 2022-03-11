@@ -18,7 +18,7 @@
 ```golang
 def getProfile():
   return {'Name': 'David',
-          'Pronouns': 'He/Him',
+          'Pronouns': [He,Him],
           'Major': 'Mathematics',
           'year': 3,
           'Employer': 'Pinwheel',
