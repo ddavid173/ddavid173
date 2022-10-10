@@ -20,7 +20,7 @@ def getProfile():
   return {'Name': 'David',
           'Pronouns': [He,Him],
           'Major': 'Mathematics',
-          'year': 3,
+          'year': 4,
           'Employer': 'Pinwheel',
           'Title': 'QA Engineer'
          }
