@@ -12,17 +12,22 @@
     <img src="https://cdn.worldvectorlogo.com/logos/google-drive.svg" alt="Resume" height="30" width="30">
   </a>
 </p>
+
+<h2 align="center">Live Sites</h2>
+   <ul>
    
+   <li>https://delgadolandinvestmentsllc.com/</li>
+   <li>https://nextcoolbase.web.app/</li>
+   </ul>
 <h2 align="center">About me</h2>
 
-```golang
+```python
 def getProfile():
   return {'Name': 'David',
           'Pronouns': [He,Him],
-          'Major': 'Mathematics',
-          'year': 4,
-          'Employer': 'Pinwheel',
-          'Title': 'QA Engineer'
+          'Employer': 'Sonos, INC',
+          'Title': 'SDET'
          }
 ```
+
 
