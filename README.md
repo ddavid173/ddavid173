@@ -9,9 +9,7 @@
 
 <h2 align="center">Live Sites</h2>
    <ul>
-   
-   <li>https://delgadolandinvestmentsllc.com/</li>
-   <li>https://nextcoolbase.web.app/</li>
+     <li>[https://delgadolandinvestmentsllc.com/](https://www.centraltexasrentals512.com/)</li>
    </ul>
 <h2 align="center">About me</h2>
 
