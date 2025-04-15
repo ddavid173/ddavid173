@@ -9,7 +9,9 @@
 
 <h2 align="center">Live Sites</h2>
    <ul>
-     <li>[https://delgadolandinvestmentsllc.com/](https://www.centraltexasrentals512.com/)</li>
+     <li>
+         <a href="https://delgadolandinvestmentsllc.com/">https://www.centraltexasrentals512.com/
+     </li>
    </ul>
 <h2 align="center">About me</h2>
 
